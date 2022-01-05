@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi 👋
 ![](http://antzuhl.cn:4000/get/@qiaolian9.readme)
 
-![snake gif](https://github.com/qiaolian9/qiaolian9/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/qiaolian9/qiaolian9/asset/github-contribution-grid-snake.svg)
 
 ![info](https://github-readme-stats.vercel.app/api?username=qiaolian9&show_icons=true&count_private=true&hide=prs&theme=dark)
 
