@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi 👋
-![](http://antzuhl.cn:4000/get/@qiaolian9.readme)
+### Hi 👋 I'm QL
 
 ![snake](https://raw.githubusercontent.com/qiaolian9/qiaolian9/main/assets/github-contribution-grid-snake.svg)
 
 ![info](https://github-readme-stats.vercel.app/api?username=qiaolian9&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 👯 My school: http://en.ustc.edu.cn/. My lab: https://acsa.ustc.edu.cn/
+😁
