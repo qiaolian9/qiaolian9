@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![snake](https://raw.githubusercontent.com/qiaolian9/qiaolian9/main/assets/github-contribution-grid-snake.svg)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiaolian9&theme=flag-india&show_icons=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shijun18&theme=vue)
 
 
 ![info](https://github-readme-stats.vercel.app/api?username=qiaolian9&show_icons=true&count_private=true&hide=prs&theme=dark)
