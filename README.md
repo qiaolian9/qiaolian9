@@ -13,14 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi 👋 I'm QL
+### Hi 👋 I'm Qiao Liang
 
 ![snake](https://raw.githubusercontent.com/qiaolian9/qiaolian9/main/assets/github-contribution-grid-snake.svg)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qiaolian9&theme=vue)
+
+
 ![info](https://github-readme-stats.vercel.app/api?username=qiaolian9&show_icons=true&count_private=true&hide=prs&theme=dark)
 
-👯 My school: http://en.ustc.edu.cn/. My lab: https://acsa.ustc.edu.cn/
 
-🎓 Graduated from: https://en.nankai.edu.cn
+
+#### 👯 My school: http://en.ustc.edu.cn/. My lab: https://acsa.ustc.edu.cn/
+
+####🎓 Graduated from: https://en.nankai.edu.cn
