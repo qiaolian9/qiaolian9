@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ![info](https://github-readme-stats.vercel.app/api?username=qiaolian9&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 
+👯 My school: http://en.ustc.edu.cn/. My lab: https://acsa.ustc.edu.cn/
 
-#### 👯 My school: http://en.ustc.edu.cn/. My lab: https://acsa.ustc.edu.cn/
-
-####🎓 Graduated from: https://en.nankai.edu.cn
+🎓 Graduated from: https://en.nankai.edu.cn
