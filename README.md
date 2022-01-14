@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi 👋 I'm Qiao Liang, Qiang's Bro!
-#### 就像阳光穿过黑夜，就像黎明悄悄划过天边！！！
+#### 就像阳光穿过黑夜，就像黎明悄悄划过天边~
 
 ![snake](https://raw.githubusercontent.com/qiaolian9/qiaolian9/main/assets/github-contribution-grid-snake.svg)
 
