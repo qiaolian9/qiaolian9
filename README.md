@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi 👋 I'm Qiao Liang, Qiang's bro!
+### Hi 👋 I'm Qiao Liang, Qiang's Bro!
 
 ![snake](https://raw.githubusercontent.com/qiaolian9/qiaolian9/main/assets/github-contribution-grid-snake.svg)
 
